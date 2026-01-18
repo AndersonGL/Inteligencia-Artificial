@@ -43,7 +43,7 @@ Curso completo sobre **Inteligência Artificial aplicada ao mundo real**, indo d
 | 21. IA para Logística *(Opcional)* | ✅ Concluído | 9/9 | 1h36min |
 | 22. IA para Professores *(Opcional)* | ✅ Concluído | 13/13 | 2h03min |
 | 23. IA para Advogados *(Opcional)* | ✅ Concluído | 8/8 | 1h51min |
-| 24. Jornada IA – Projeto Final | ✅ Concluído | — | — |
+| 24. Jornada IA – Projeto Final | ✅ Concluído | 60hrs |
 
 ---
 
